@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EpiphanyTripApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_query_page">QueryPage</string>
+    <string name="Query_command_1">Please  enter current location. </string>
+    <string name="Query_command_2">Please  enter start time. </string>
+    <string name="Query_command_3">Please  enter travel distance. </string>
+    <string name="title_activity_choice_list_page">ChoiceListPage</string>
+    <string name="Available_Options">Available options are:</string>
+</resources>
